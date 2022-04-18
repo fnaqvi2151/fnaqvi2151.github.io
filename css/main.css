@@ -21,7 +21,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    color: #123;
+    color: #678;
 }
 p {
     font-size: 1.1em;
@@ -36,7 +36,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.1em;
 }
 
 ul.posts li {
